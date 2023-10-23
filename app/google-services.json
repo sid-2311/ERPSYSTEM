@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490537771652",
+    "project_id": "erpsystem-acb06",
+    "storage_bucket": "erpsystem-acb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490537771652:android:5ee6d09ac83a4d513dd8d1",
+        "android_client_info": {
+          "package_name": "com.example.erpsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0JOtRqTJ3zeRmFvRq7ZK_hJriHmC6OEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
